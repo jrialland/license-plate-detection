@@ -1,2 +1,1 @@
-# license-plate-detection
-license plate detection using yolo, deskew and easyocr
+Demonstrate the use of a yolo model in conjunction with ocr in order to detect car license plates
